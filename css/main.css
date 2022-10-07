@@ -1,0 +1,12 @@
+
+/* ----------- For screens 768px and larger ----------- */
+@media () {
+	body {
+    background: red;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media () {
+
+}
